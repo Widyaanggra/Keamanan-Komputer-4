@@ -84,14 +84,10 @@ Jika Angry IP Scanner belum terinstal, ikuti langkah-langkah berikut:
 
 1. Kunjungi website [Angry IP Scanner untuk Linux](https://angryip.org/download/#linux).
 2. Unduh **x86 64-bit DEB Package** untuk Ubuntu/Debian/Mint.
+3.Kembali keterminal, lalu ketik cd Downloads kemudian ls dan **sudo dpkg -i
+4.Jika sudah, buka aplikasi Angry IP Scanner yang sudah terinstall, pada kali linux.
 
-Setelah mengunduh, Anda dapat menginstalnya menggunakan perintah berikut di terminal:
 
-   ```bash
-  sudo dpkg -i namafile.deb
-   
-gambar:
-   
 
 
 
