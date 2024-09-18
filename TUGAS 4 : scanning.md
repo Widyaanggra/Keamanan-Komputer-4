@@ -83,15 +83,27 @@ Angry IP Scanner adalah alat pemindaian jaringan yang digunakan untuk menemukan 
 Jika Angry IP Scanner belum terinstal, ikuti langkah-langkah berikut:
 
 1. Kunjungi website [Angry IP Scanner untuk Linux](https://angryip.org/download/#linux).
-2. Unduh **x86 64-bit DEB Package** untuk Ubuntu/Debian/Mint.
+2.  Unduh **x86 64-bit DEB Package** untuk Ubuntu/Debian/Mint.
+   ![image](https://github.com/user-attachments/assets/ae0698cb-b4cc-45f5-9f5f-e0f94109d87d)
 3.Kembali keterminal, lalu ketik cd Downloads kemudian ls dan **sudo dpkg -i
+![image](https://github.com/user-attachments/assets/c4711b11-72e2-4143-8954-c35c9d526fbd)
+
 4.Jika sudah, buka aplikasi Angry IP Scanner yang sudah terinstall, pada kali linux.
-
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/350591c0-9e55-4110-9be1-116a97f37dda)
+5.Klik Next dan Close
+![image](https://github.com/user-attachments/assets/194636e8-b7c3-4c56-be01-d3b232b7ac52)
+6.Kemudian edit setting
+![image](https://github.com/user-attachments/assets/9c0f56ec-0126-49dd-91d7-6940a7dbea75)
+7.Pada Scanning ubah Pinging Method menjadi Combined UDP+TCP.
+![image](https://github.com/user-attachments/assets/ea00d8e1-e1b0-4a8f-ad46-758836c87733)
+Pada Ports ubah timenya menjadi 1-1000
+![image](https://github.com/user-attachments/assets/603f1a80-65bc-4a50-96d8-4473e8f8433a)
+Pada Display ubah diplaynya menjadi Alive hosts (responding to pings) only
+![image](https://github.com/user-attachments/assets/b1c94a5f-9355-4d52-96a1-93a21cd13e6f)
+8.Masukkan IP dengan range yang akan dicari dan Klik start.
+![image](https://github.com/user-attachments/assets/42626846-c772-475a-a0ae-6ae971935776)
+9.Setelah pemindaian selesai, kita akan melihat informasi tentang port yang terbuka, layanan yang berjalan, dan alamat IP
+![image](https://github.com/user-attachments/assets/5b5025e2-b57c-4e62-b2e7-f805404179e9)
+Dengan mengikuti langkah-langkah di atas, dapat menggunakan Angry IP Scanner untuk melakukan pemindaian.
 
 
